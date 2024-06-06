@@ -1,0 +1,108 @@
+Define Software Engineering:
+What is software engineering, and how does it differ from traditional programming?
+
+Software Engineering is the application of engineering principles to software development to ensure systematic, disciplined, and quantifiable approaches to software creation, maintenance, and lifecycle management.
+
+Differences from Traditional Programming:
+
+Scope: Encompasses the entire software lifecycle, including requirements analysis, design, coding, testing, and maintenance.
+Methodology: Utilizes structured methodologies and standards to manage complexity and ensure quality.
+Software Development Life Cycle (SDLC):
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
+Requirement Analysis: Gather and analyze requirements from stakeholders.
+System Design: Create architecture and design specifications.
+Implementation: Write the actual code based on design specifications.
+Testing: Verify that the software functions as intended.
+Deployment: Install the software in the user environment.
+Maintenance: Update and improve the software post-deployment.
+Agile vs. Waterfall Models:
+Compare and contrast the Agile and Waterfall models of software development.
+
+Waterfall Model:
+
+Linear Approach: Each phase must be completed before the next begins.
+Best For: Projects with well-defined requirements.
+Agile Model:
+
+Iterative Approach: Involves regular iterations and continuous feedback.
+Best For: Projects with dynamic requirements and a need for rapid delivery.
+Requirements Engineering:
+What is requirements engineering? Describe its process and importance.
+
+Requirements Engineering is the process of defining, documenting, and maintaining software requirements.
+
+Process:
+
+Elicitation: Gather requirements through various techniques.
+Specification: Document requirements clearly and in detail.
+Importance:
+
+Foundation for Development: Provides a clear understanding of what needs to be built.
+Risk Reduction: Identifies potential issues early, reducing project risks.
+Software Design Principles:
+Explain the concept of modularity in software design.
+
+Modularity is the design principle of dividing a software system into smaller, self-contained units (modules) that can be developed and maintained independently.
+
+Benefits:
+
+Maintainability: Easier to update and fix individual modules.
+Scalability: New features can be added as separate modules without affecting existing functionality.
+Testing in Software Engineering:
+Describe the different levels of software testing.
+
+Unit Testing: Testing individual components for correct functionality.
+Integration Testing: Testing interactions between integrated units.
+System Testing: Testing the complete system to ensure it meets requirements.
+Acceptance Testing: Ensuring the system meets user needs and is ready for deployment.
+Importance of Testing:
+
+Quality Assurance: Ensures reliability and performance.
+Bug Detection: Identifies and corrects defects early in the development process.
+Version Control Systems:
+What are version control systems, and why are they important?
+
+Version Control Systems (VCS) manage changes to source code over time, allowing collaboration and tracking of revisions.
+
+Importance:
+
+Collaboration: Multiple developers can work on the same project without conflict.
+History Tracking: Keeps a history of changes for easy rollback and analysis.
+Examples:
+
+Git: Distributed VCS, supports branching and merging.
+Subversion (SVN): Centralized VCS, supports directory versioning.
+Software Project Management:
+Discuss the role of a software project manager.
+
+Role:
+
+Planning: Define project scope, objectives, and timelines.
+Team Leadership: Lead and motivate the project team.
+Challenges:
+
+Scope Creep: Managing changes to project scope.
+Time Management: Ensuring the project stays on schedule.
+Software Maintenance:
+Define software maintenance and explain its importance.
+
+Software Maintenance involves updating and improving software post-deployment.
+
+Types:
+
+Corrective Maintenance: Fixing bugs and errors.
+Adaptive Maintenance: Modifying software for new environments.
+Importance:
+
+Longevity: Extends the life of the software.
+User Satisfaction: Keeps software aligned with user needs.
+Ethical Considerations in Software Engineering:
+What are some ethical issues that software engineers might face?
+
+Privacy: Ensuring user data is protected.
+Security: Building secure systems to prevent cyber threats.
+Ensuring Ethical Standards:
+
+Codes of Conduct: Adhering to professional codes of conduct.
+Transparency: Being honest about software capabilities and limitations.
